@@ -1,0 +1,28 @@
+
+# Investigate the Difference in Miles-Per-Gallon Between Automobiles with Automatic and Manual Transmissions
+
+## Abstract
+
+TODO
+
+
+
+
+## Explore Data
+
+
+
+
+## Analysis
+
+
+
+
+
+## Conclusion
+
+
+
+
+
+
